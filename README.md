@@ -10,7 +10,9 @@ Unity 2020.1.5, Visual Studio 2019
 WebGl
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src="./Screenshots/Screenshot_01.PNG" width="250">
+</div>
 
 ### Project state: 
 Finished
